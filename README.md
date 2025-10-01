@@ -27,7 +27,7 @@ For GET /api/tasks, pass userId and role to fetch tasks according to the user ro
 
 - Clone repo
   
-git clone https://github.com/Eirage-Abid/React_task_manager
+git clone (https://github.com/Eirage-Abid/React_task_manager.git)
 
 cd task-manager-app
 
