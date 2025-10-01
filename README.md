@@ -24,21 +24,29 @@ DELETE /api/tasks/:id – delete task
 For GET /api/tasks, pass userId and role to fetch tasks according to the user role.
 
 # Installation and Running
-Installation & Running
 
 - Clone repo
+  
 git clone https://github.com/Eirage-Abid/React_task_manager
+
 cd task-manager-app
 
 - Backend
+  
 cd backend
 npm install
+
 node server.js
+
 Server runs at: http://localhost:5000
 
 - Frontend
+  
 cd ../frontend
+
 npm install
+
 npm start
+
 App runs at: http://localhost:3000
 
