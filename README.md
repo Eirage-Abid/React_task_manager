@@ -4,7 +4,9 @@ Admins can view all tasks; users can view only their own tasks. Supports CRUD op
 
 # Tech Stack
 Frontend: React.js, Axios, React Router
-Backend: Node.js, Express.js 
+
+Backend: Node.js, Express.js
+
 Database: JSON file (db.json)
 
 # Screenshots
